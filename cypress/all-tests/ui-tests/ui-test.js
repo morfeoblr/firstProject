@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
-import SearchResultsPage from "../../page-objects/searchResultsPage";
-import AccessoriesPage from "../../page-objects/accessoriesPage";
+import SearchResultsPage from "../../../page-objects/searchResultsPage";
+import AccessoriesPage from "../../../page-objects/accessoriesPage";
 
 describe('Some test', () => {
     beforeEach(() => {
